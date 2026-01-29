@@ -10,16 +10,16 @@ I build modern web applications using the latest tools and practices - including
 
 I use AI tools (Claude, GitHub Copilot, ChatGPT, to name a few) as productivity multipliers - like Stack Overflow or pair programming, but faster. I can explain every line of code, debug independently, and extend functionality without assistance.
 
-**AI helps with:** Scaffolding, debugging, learning APIs, refactoring  
-**I provide:** Architecture, problem-solving, testing, production deployment
+- **AI helps with:** Scaffolding, debugging, learning APIs, refactoring  
+- **I provide:** Architecture, problem-solving, testing, production deployment
 
 ## Tech Stack
 
-**Frontend:** React, React Native, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Go, Express, REST APIs  
-**Data:** PostgreSQL, pgvector, Supabase  
-**AI/ML:** RAG systems, OpenAI API, Anthropic Claude, MCP  
-**Tools:** Git, GitHub API, Docker, Vite
+- **Frontend:** React, React Native, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Go, Express, REST APIs, Subapase  
+- **Data:** PostgreSQL, pgvector, Supabase  
+- **AI/ML:** RAG systems, OpenAI API, Anthropic Claude, MCP  
+- **Tools:** Git, GitHub API, Docker, Vite
 
 ## Featured Projects
 

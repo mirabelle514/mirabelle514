@@ -19,7 +19,7 @@ I build modern web applications using the latest tools and practices - including
 
 ### I Use AI Tools Professionally 
 
-Like most modern developers, I leverage AI assistants (Claude, GitHub Copilot, ChatGPT) as productivity multipliers. Here's what that means:
+Like most modern developers, I leverage AI assistants (Claude, GitHub Copilot, ChatGPT, and more) as productivity multipliers. Here's what that means:
 
 **What AI Helps Me With:**
 - Accelerating initial scaffolding and boilerplate
@@ -78,12 +78,6 @@ AI coding interface with voice-to-code, gesture recognition, collaborative codin
 ### [Design Handoff Portal](https://github.com/mirabelle514/Design-Handoff-Portal)
 A web application for designer-to-developer handoff, helping teams discover and use components. The portal connects to your component repos via GitHub API - no need to have them in the same project.
 - **Tech**: React, GitHub API, Component Documentation
-
----
-
-## GitHub Stats
-
-coming up
 
 ---
 

@@ -61,7 +61,7 @@ Check out my pinned repositories below to see examples of my work across all typ
 
 ## GitHub Stats
 
-![Mirabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirabelle514&show_icons=true&theme=default)
+coming up
 
 ---
 

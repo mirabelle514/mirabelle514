@@ -8,10 +8,10 @@ I build modern web applications using the latest tools and practices - including
 
 ## What I Build
 
-- **Mobile Apps**: React Native/Expo cross-platform applications - those are in progress and a long way from being something that can be share widely. 
 - **Web Applications**: React, TypeScript, full-stack solutions  
 - **Design Systems**: Component libraries and UI/UX implementation
 - **AI Integration**: Building products that leverage AI capabilities
+- **Mobile Apps**: React Native/Expo cross-platform applications - those are in progress and a long way from being something that can be share widely. 
 
 ---
 
@@ -55,7 +55,7 @@ const skills = {
 
 ## Featured Projects
 
-coming up
+Check out my pinned repositories below to see examples of my work across all types of projects.
 
 ---
 

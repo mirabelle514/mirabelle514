@@ -30,8 +30,8 @@ Check my pinned repositories below. Each includes detailed technical decisions, 
 ## Currently
 
 **Seeking:** UX Frontend development roles  
-**Learning:** Vector databases, MCP protocol, advanced React patterns  
-**Building:** Tools bridging design and engineering workflows
+**Learning:** Vector databases, MCP protocol, more AI intergrations approach
+**Building:** Tools bridging design and engineering workflows using advanced React patterns
 
 ---
 

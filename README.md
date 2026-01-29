@@ -55,7 +55,29 @@ const skills = {
 
 ## Featured Projects
 
-Check out my pinned repositories below to see examples of my work across all types of projects.
+### [Atelier Design System](https://github.com/mirabelle514/Atelier-Design-System)
+A Design System library that bridges design and engineering. Production-ready components built with TypeScript, Tailwind CSS, and React UI. Includes Figma library and Storybook docs.
+- **Tech**: TypeScript, React, Tailwind CSS, Storybook, Figma
+
+### [MCP Starter Repo](https://github.com/mirabelle514/mcp-starter-repo)
+A starter repo to help teams build an MCP server that translates Figma designs into production-ready React components backed by their actual component system.
+- **Tech**: MCP, Figma API, React, Component Translation
+
+### [AI Documentation Assistant](https://github.com/mirabelle514/AI-Documentation-Assistant)
+AI Documentation Assistant is a React + Go app that ingests documentation into Postgres/pgvector and provides semantic search, RAG-based chat, document upload, and basic analytics.
+- **Tech**: React, Go, Postgres, pgvector, RAG, Semantic Search
+
+### [AI Chatbot](https://github.com/mirabelle514/AIChatbot)
+A modern, accessible AI chatbot interface showcasing UX best practices for insurance customer service. Built with React, TypeScript, and Insurance Company's design system.
+- **Tech**: React, TypeScript, Design Systems, Accessibility
+
+### [AI Coding Interface](https://github.com/mirabelle514/AI-Coding-Interface)
+AI coding interface with voice-to-code, gesture recognition, collaborative coding, and AI-powered code suggestions. Testing how to build platforms to be more accessibility focused. IN PROGRESS
+- **Tech**: Voice Recognition, Gesture Control, Accessibility, AI Integration
+
+### [Design Handoff Portal](https://github.com/mirabelle514/Design-Handoff-Portal)
+A web application for designer-to-developer handoff, helping teams discover and use components. The portal connects to your component repos via GitHub API - no need to have them in the same project.
+- **Tech**: React, GitHub API, Component Documentation
 
 ---
 

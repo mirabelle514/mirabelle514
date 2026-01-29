@@ -42,7 +42,7 @@ Check my pinned repositories below. Each includes detailed technical decisions, 
 
 ---
 
-** Note to employers: 
+## Note to employers: 
 
 - I document AI usage transparently. Every project represents problems I solved, code I understand deeply, and modern development practices. 
 - Check project READMEs for detailed technical breakdowns.

@@ -1,7 +1,6 @@
 # I am Mirabelle
 
-You've reach the right but older version of my Github - Please go to the new one - https://github.com/mirabelledoiron
-
+This repo was moved to my new one - Please go to the new one - https://github.com/mirabelledoiron
 
 ## Relevant links: 
 

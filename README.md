@@ -1,6 +1,6 @@
 # I am Mirabelle
 
-This repo was moved to my new one - Please go to the new one - https://github.com/mirabelledoiron
+This repo was moved - please go to the new one - https://github.com/mirabelledoiron
 
 ## Relevant links: 
 
